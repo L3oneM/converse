@@ -1,3 +1,6 @@
+Αυτό που χρειάζεσαι είναι στο src/App.js
+line 6-35 (useEffect)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
